@@ -1,0 +1,9 @@
+{
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "version": 2,
+  "projects": {
+    "api-feature-config": "libs/api/feature-config",
+    "api-utils-config": "libs/api/utils-config",
+    "backend": "apps/backend"
+  }
+}
